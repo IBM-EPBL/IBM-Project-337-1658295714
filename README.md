@@ -1,0 +1,6 @@
+# IBM-Project-337-1658295714
+Real-Time Communication System Powered by AI for Specially Abled
+TEAM LEADER   : R.VAISHNAVI
+TEAM MEMBER 1 : K.SUGAMATHIRANI
+TEAM MEMBER 2 : R.UMA
+TEAM MEMBER 3 : M.VIJAYALAKSHMI
